@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+<img src="https://github.com/teonett/React-Multi-Step-Registration/blob/main/public/assets/Captura%20de%20Tela%202021-12-03%20%C3%A0s%2023.07.45.png">
+<img src="https://github.com/teonett/React-Multi-Step-Registration/blob/main/public/assets/Captura%20de%20Tela%202021-12-03%20%C3%A0s%2023.08.05.png">
+<img src="https://github.com/teonett/React-Multi-Step-Registration/blob/main/public/assets/Captura%20de%20Tela%202021-12-03%20%C3%A0s%2023.08.35.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
